@@ -1,4 +1,4 @@
-# ArkMind
+# Loan Prediction
 ## Data Collection & Processing
 Start by loading the dataset and performing an initial exploration. Check the shape of the dataset, view the first few rows, obtain information about the columns, and check for missing values.
 
